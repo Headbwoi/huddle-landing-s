@@ -74,6 +74,7 @@ p {
   justify-content: center;
   align-items: center;
   margin-bottom: 2rem;
+  cursor: pointer;
 }
 .container .center .icons .span i {
   color: white;
